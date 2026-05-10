@@ -1,0 +1,15 @@
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\bin\Debug\net8.0\SistemskoProgramiranjePrviProjekat.exe
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\bin\Debug\net8.0\SistemskoProgramiranjePrviProjekat.deps.json
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\bin\Debug\net8.0\SistemskoProgramiranjePrviProjekat.runtimeconfig.json
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\bin\Debug\net8.0\SistemskoProgramiranjePrviProjekat.dll
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\bin\Debug\net8.0\SistemskoProgramiranjePrviProjekat.pdb
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.AssemblyInfoInputs.cache
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.AssemblyInfo.cs
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.sourcelink.json
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.dll
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\refint\SistemskoProgramiranjePrviProjekat.dll
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.pdb
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\SistemskoProgramiranjePrviProjekat.genruntimeconfig.cache
+C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\obj\Debug\net8.0\ref\SistemskoProgramiranjePrviProjekat.dll

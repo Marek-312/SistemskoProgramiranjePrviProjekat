@@ -1,0 +1,35 @@
+[14:25:08][Nit-1] Root folder: C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\Files
+[14:25:08][Nit-4] Server pokrenut na http://localhost:5050/
+[14:25:08][Nit-7] Worker nit pokrenuta
+[14:25:08][Nit-7] RED PRAZAN: Worker ceka...
+[14:25:08][Nit-5] Worker nit pokrenuta
+[14:25:08][Nit-5] RED PRAZAN: Worker ceka...
+[14:25:10][Nit-8] Worker nit pokrenuta
+[14:25:10][Nit-8] RED PRAZAN: Worker ceka...
+[14:25:16][Nit-9] Worker nit pokrenuta
+[14:25:16][Nit-9] RED PRAZAN: Worker ceka...
+[14:25:21][Nit-4] ZAHTEV PRIMLJEN: 'fajl1.txt'
+[14:25:21][Nit-4] RED: Dodat zahtev, u redu: 1
+[14:25:21][Nit-7] RED: Uzet zahtev, ostalo: 0
+[14:25:21][Nit-7] OBRADA: 'fajl1.txt'
+[14:25:21][Nit-5] RED PRAZAN: Worker ceka...
+[14:25:21][Nit-7] FAJL PRONADJEN: C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\Files\fajl1.txt
+[14:25:21][Nit-7] POZIVAM GetOrCompute...
+[14:25:21][Nit-7] KES MISS: 'fajl1.txt' - ova nit ce racunati rezultat
+[14:25:21][Nit-7] BROJANJE palindroma u: C:\Users\Lana\OneDrive\Desktop\PalindromServer\SistemskoProgramiranjePrviProjekat\Files\fajl1.txt
+[14:25:24][Nit-7] PALINDROM: 'ana'
+[14:25:24][Nit-7] PALINDROM: 'oko'
+[14:25:24][Nit-7] PALINDROM: 'radar'
+[14:25:24][Nit-7] UKUPNO palindroma: 3
+[14:25:24][Nit-7] KES: Upisan rezultat za 'fajl1.txt' = 3 - vreme: 2648ms
+[14:25:24][Nit-7] GetOrCompute ZAVRSIO: 3
+[14:25:24][Nit-7] ODGOVOR POSLAT: Fajl 'fajl1.txt' sadrzi 3 palindroma.
+[14:25:24][Nit-7] RED PRAZAN: Worker ceka...
+[14:25:24][Nit-4] ZAHTEV PRIMLJEN: 'favicon.ico'
+[14:25:24][Nit-4] RED: Dodat zahtev, u redu: 1
+[14:25:24][Nit-8] RED: Uzet zahtev, ostalo: 0
+[14:25:24][Nit-8] OBRADA: 'favicon.ico'
+[14:25:24][Nit-8] FAJL NIJE PRONADJEN: 'favicon.ico'
+[14:25:24][Nit-8] ODGOVOR POSLAT: Greska: Fajl 'favicon.ico' nije pronadjen!
+[14:25:24][Nit-8] RED PRAZAN: Worker ceka...
+[14:25:24][Nit-9] RED PRAZAN: Worker ceka...
